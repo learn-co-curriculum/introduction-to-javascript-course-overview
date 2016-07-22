@@ -1,6 +1,6 @@
 ## Introduction to Javascript Course Overview
 
-We're glad you're hear learning with us. In this course, we'll take you from the very beginning of your Javascript and programming journey and by the end you'll be able to build this [http://learn-co-curriculum.github.io/javascript-rock-dodger/]. Pretty neat, right? 
+We're glad you're hear learning with us. In this course, we'll take you from the very beginning of your Javascript and programming journey and by the end you'll be able to build [this] (http://learn-co-curriculum.github.io/javascript-rock-dodger/). Pretty neat, right? 
 
 We'll start with the basics, show you how you can write Javascript right in the browser, and then cover basic data types, variables, and data structures. You'll become comfortable with functions, callbacks, and loops. Then we'll dive into the DOM and jQuery and explore best practices in how Javascript interacts with HTML and CSS in websites. 
 
